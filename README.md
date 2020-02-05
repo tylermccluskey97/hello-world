@@ -1,3 +1,2 @@
-# hello-world
-hello world
-my name is tyler
+# tylermccluskey07.github.io
+my homepage
